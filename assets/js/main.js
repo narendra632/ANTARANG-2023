@@ -1,4 +1,16 @@
 
+
+
+
+
+
+
+
+
+
+
+//Register Button animation 
+
 var animateButton = function(e) {
 
   
@@ -22,17 +34,7 @@ for (var i = 0; i < bubblyButtons.length; i++) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+// Star text effect 
 
 let index = 0,
     interval = 1000;
